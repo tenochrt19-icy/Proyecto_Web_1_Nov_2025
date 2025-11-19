@@ -1,2 +1,7 @@
 # Proyecto_Web_1_Nov_2025
-Repositorio para el proyecto de Web I. Trabajo por: Natalia --- y Tenoch Rojas.
+Repositorio para el proyecto final de la materia Web I. 
+Trabajo realizado por: 
+Natalia --- y Tenoch Rojas.
+
+Grupo 1508.
+FES Aragón - UNAM
