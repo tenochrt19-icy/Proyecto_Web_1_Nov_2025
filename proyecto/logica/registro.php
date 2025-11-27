@@ -19,9 +19,11 @@ include('../vistas/headder.php');
             <br>
             <button type="submit">Registro</button>
         </form>
-        <br><br>
+        <br>
+     <button onclick = "location.href= './session_destroy.php'" style="float: right;">Salir </button>
     </main>
 
     <?php
     include('../vistas/footer.php');
+
     ?>
